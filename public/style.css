@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-image: url("http://rack.1.mshcdn.com/media/ZgkyMDEzLzEwLzI0L2NkL0NvZGluZy41YTU1OS5qcGcKcAl0aHVtYgkxMjAweDYyNyMKZQlqcGc/44ff8ce6/5ea/Coding.jpg")
-
+  background-image: url("http://rack.1.mshcdn.com/media/ZgkyMDEzLzEwLzI0L2NkL0NvZGluZy41YTU1OS5qcGcKcAl0aHVtYgkxMjAweDYyNyMKZQlqcGc/44ff8ce6/5ea/Coding.jpg");
+  background-repeat: no-repeat;
 }
 
 .body-container{
   background-color: white;
-  width: 30%;
-  height: 50%;
+  width: 40%;
+  height: 100%;
   margin: auto;
 
 }
