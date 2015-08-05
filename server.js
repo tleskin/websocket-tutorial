@@ -17,3 +17,5 @@ var server = http.createServer(app)
                   });
 
 module.exports = server;
+
+const io = require('socket.io')(server);
