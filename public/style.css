@@ -6,9 +6,10 @@ body {
 
 .body-container{
   background-color: white;
-  width: 50%;
+  width: 60%;
   height: 100%;
   margin: auto;
+  padding: 20px;
 
 }
 
